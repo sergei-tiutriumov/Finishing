@@ -4,7 +4,7 @@
 ( CONTROLLER=HAAS )
 ( MATERIAL=6061-T6 )
 ( THICKNESS=25.4 )
-( MACHINE TIME=1 HRS.  45 MIN.  17 SEC. )
+( MACHINE TIME=0 HRS.  18 MIN.  49 SEC. )
 ( STATION  TOOL TYPE  DIAMETER  CORNER RADIUS  DESCRIPTION               )
 ( -------  ---------  --------  -------------  -------------------- )
 (  001     ENDMILL      000.90                            0.9           )
